@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>rosauth</name>
-  <version>0.1.5</version>
+  <version>0.1.6</version>
   <description>Server Side tools for Authorization and Authentication of ROS Clients</description>
 
   <maintainer email="rctoris@wpi.edu">Russell Toris</maintainer>
@@ -14,6 +14,7 @@
   <url type="repository">https://github.com/WPI-RAIL/rosauth</url>
 
   <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>libssl-dev</build_depend>
   <build_depend>roscpp</build_depend>
   <build_depend>message_generation</build_depend>
   <build_depend>rostest</build_depend>
