@@ -1,3 +1,24 @@
+## rosauth (indigo) - 0.1.6-0
+
+The packages in the `rosauth` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo rosauth` on `Tue, 24 Mar 2015 17:15:58 -0000`
+
+The `rosauth` package was released.
+
+Version of package(s) in repository `rosauth`:
+- upstream repository: https://github.com/WPI-RAIL/rosauth.git
+- release repository: https://github.com/wpi-rail-release/rosauth-release.git
+- rosdistro version: `0.1.5-0`
+- old version: `0.1.5-0`
+- new version: `0.1.6-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.7`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.1`
+- vcstools version: `0.1.36`
+
+
 ## rosauth (hydro) - 0.1.5-0
 
 The packages in the `rosauth` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro rosauth --new-track` on `Tue, 02 Dec 2014 14:05:05 -0000`
