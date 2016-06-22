@@ -1,3 +1,26 @@
+## rosauth (kinetic) - 0.1.7-0
+
+The packages in the `rosauth` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic rosauth --new-track` on `Wed, 22 Jun 2016 17:17:15 -0000`
+
+The `rosauth` package was released.
+
+Version of package(s) in repository `rosauth`:
+
+- upstream repository: https://github.com/GT-RAIL/rosauth.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.7-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## rosauth (jade) - 0.1.7-0
 
 The packages in the `rosauth` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade rosauth` on `Mon, 10 Aug 2015 19:08:56 -0000`
