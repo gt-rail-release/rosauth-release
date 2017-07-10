@@ -1,3 +1,26 @@
+## rosauth (lunar) - 0.1.7-1
+
+The packages in the `rosauth` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar rosauth --new-track` on `Mon, 10 Jul 2017 20:59:05 -0000`
+
+The `rosauth` package was released.
+
+Version of package(s) in repository `rosauth`:
+
+- upstream repository: https://github.com/GT-RAIL/rosauth.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.1.7-0`
+- new version: `0.1.7-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## rosauth (indigo) - 0.1.7-0
 
 The packages in the `rosauth` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track lunar rosauth --new-track` on `Mon, 10 Jul 2017 20:57:14 -0000`
