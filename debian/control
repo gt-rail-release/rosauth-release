@@ -1,0 +1,12 @@
+Source: ros-melodic-rosauth
+Section: misc
+Priority: extra
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), libssl-dev, ros-melodic-catkin, ros-melodic-message-generation, ros-melodic-roscpp, ros-melodic-rostest
+Homepage: http://ros.org/wiki/rosauth
+Standards-Version: 3.9.2
+
+Package: ros-melodic-rosauth
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-message-runtime, ros-melodic-roscpp
+Description: Server Side tools for Authorization and Authentication of ROS Clients
