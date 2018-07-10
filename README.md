@@ -1,3 +1,26 @@
+## rosauth (hydro) - 0.1.7-1
+
+The packages in the `rosauth` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro rosauth --new-track` on `Tue, 10 Jul 2018 16:49:21 -0000`
+
+The `rosauth` package was released.
+
+Version of package(s) in repository `rosauth`:
+
+- upstream repository: https://github.com/GT-RAIL/rosauth.git
+- release repository: https://github.com/wpi-rail-release/rosauth-release.git
+- rosdistro version: `0.1.7-0`
+- old version: `0.1.7-0`
+- new version: `0.1.7-1`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.6`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## rosauth (melodic) - 0.1.7-1
 
 The packages in the `rosauth` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic rosauth --new-track` on `Tue, 10 Jul 2018 16:41:53 -0000`
