@@ -1,3 +1,26 @@
+## rosauth (melodic) - 1.0.1-0
+
+The packages in the `rosauth` repository were released into the `melodic` distro by running `/home/rein/.local/bin/bloom-release -d rosauth -r melodic` on `Mon, 02 Sep 2019 18:48:19 -0000`
+
+The `rosauth` package was released.
+
+Version of package(s) in repository `rosauth`:
+
+- upstream repository: https://github.com/GT-RAIL/rosauth.git
+- release repository: https://github.com/gt-rail-release/rosauth-release.git
+- rosdistro version: `0.1.7-2`
+- old version: `0.1.7-2`
+- new version: `1.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## rosauth (melodic) - 0.1.7-2
 
 The packages in the `rosauth` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic rosauth --new-track` on `Tue, 10 Jul 2018 16:51:35 -0000`
