@@ -1,3 +1,26 @@
+## rosauth (noetic) - 1.0.1-1
+
+The packages in the `rosauth` repository were released into the `noetic` distro by running `/home/rein/.local/bin/bloom-release rosauth --ros-distro noetic` on `Mon, 11 May 2020 16:41:01 -0000`
+
+The `rosauth` package was released.
+
+Version of package(s) in repository `rosauth`:
+
+- upstream repository: https://github.com/GT-RAIL/rosauth.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.19`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## rosauth (melodic) - 1.0.1-0
 
 The packages in the `rosauth` repository were released into the `melodic` distro by running `/home/rein/.local/bin/bloom-release -d rosauth -r melodic` on `Mon, 02 Sep 2019 18:48:19 -0000`
