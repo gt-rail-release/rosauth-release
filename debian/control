@@ -1,0 +1,12 @@
+Source: ros-noetic-rosauth
+Section: misc
+Priority: optional
+Maintainer: Rein Appeldoorn <rein@eurotec.com>
+Build-Depends: debhelper (>= 9.0.0), libssl-dev, ros-noetic-catkin, ros-noetic-message-generation, ros-noetic-roscpp, ros-noetic-rostest
+Homepage: http://ros.org/wiki/rosauth
+Standards-Version: 3.9.2
+
+Package: ros-noetic-rosauth
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-message-runtime, ros-noetic-roscpp
+Description: Server Side tools for Authorization and Authentication of ROS Clients
